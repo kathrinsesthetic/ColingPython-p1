@@ -1,3 +1,4 @@
 def solution(a):
-    a -= 1
+    a = int(input())
+    a - 1
     return a
