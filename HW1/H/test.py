@@ -1,6 +1,4 @@
 from H import solution
-import numpy as np
-
 
 def get_testcase(file):
     with open(file) as f:
