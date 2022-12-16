@@ -1,5 +1,4 @@
 from A import solution
-import time
 
 def get_testcase(file):
     with open(file) as f:
